@@ -27,6 +27,7 @@ public class TwoFragment extends Fragment {
 
     }
 
+
     @SuppressLint("SetTextI18n")
     @Override
     public void onViewCreated(@NonNull View view, @Nullable Bundle savedInstanceState) {
